@@ -1,0 +1,25 @@
+{
+  "name": "pricecaster-sdk",
+  "version": "1.0.0",
+  "description": "Pricecaster Client JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randlabs/pricecaster-sdk.git"
+  },
+  "keywords": [
+    "pricecaster",
+    "sdk",
+    "js",
+    "client"
+  ],
+  "author": "hernan@randlabs.io",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/randlabs/pricecaster-sdk/issues"
+  },
+  "homepage": "https://github.com/randlabs/pricecaster-sdk#readme"
+}
